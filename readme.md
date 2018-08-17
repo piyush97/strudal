@@ -20,7 +20,12 @@ You're going to need:
 * Bundler — Yarn or NPM or Brew
 * GulpJS
 
+## If bundler throws some error
+
+`npm rebuild node-sass`
+
 ### Getting Set Up
+
 1. Clone this repo  `https://github.com/piyush97/strudal.git`
 
 1. `cd strudal`
@@ -45,8 +50,10 @@ gulp
 ### Contact me@piyushmehta.com for support
 
 # Latest Release:
+
 https://github.com/piyush97/strudal/releases/tag/1.0
 
 # Contributors: 
+
 1. Bhavya Arora 
 2. Piyush Mehta
