@@ -10,7 +10,9 @@
     "url": "https://github.com/piyush97/strudal.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "build": "gulp build"
   },
   "devDependencies": {
     "browser-sync": "^2.24.4",
