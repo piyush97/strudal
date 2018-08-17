@@ -18,13 +18,21 @@ You're going to need:
 * GulpJS
 
 ### Getting Set Up
-Clone this repo `https://github.com/piyush97/strudal.git`
+1. Clone this repo  `https://github.com/piyush97/strudal.git`
+
+1. `cd strudal`
+
+1. Checkout your branch `git checkout -b branchName`
+
 
 ### Clean Run commands
 
-```bash
+```sh
+# either run this to run locally
 npm i 
-gulp
+gulp 
+# File name not needed!! :D
+
 ```
 
 ### Changes to be made in a new branch. with the name as the feature.
@@ -33,4 +41,6 @@ gulp
 
 ### Contact me@piyushmehta.com for support
 
-#### Made with Love by Bhavya Arora (@bhavyaArora2)
+# Contributors: 
+1. Bhavya Arora 
+2. Piyush Mehta
