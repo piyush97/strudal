@@ -1,6 +1,7 @@
 version: '3.6'
 
 services:
+  # front end
   strudal:
     container_name: frontend
     # image: node:8.11.4
