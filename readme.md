@@ -1,7 +1,9 @@
 # Slika Homepage (strudal)
 ## Strudal Docs
-<img src='https://preview.ibb.co/hEJJDK/7152018235215.png' height="300px" width="500px">
+<p align="center">
 
+<img src='https://preview.ibb.co/hEJJDK/7152018235215.png' height="300px" width="500px">
+</p>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
