@@ -1,5 +1,6 @@
 # Slika Homepage (strudal)
 ## Strudal Docs
+<center><img src='https://preview.ibb.co/hEJJDK/7152018235215.png' height="40px" width="80px"></center>
 
 Made using Bootstrap 4 
 
