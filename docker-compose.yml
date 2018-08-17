@@ -3,7 +3,7 @@ version '3.6'
 services:
   backend:
     container_name: frontend
-    image: node:8.11.4
+    # image: node:8.11.4
     command: gulp
     working_dir: /
     ports:
