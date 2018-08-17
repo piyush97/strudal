@@ -1,10 +1,11 @@
-version '3.6'
+version: '3.6'
 
 services:
-  backend:
+  strudal:
     container_name: frontend
     # image: node:8.11.4
     command: gulp
+    build: ./
     working_dir: /
     ports:
       - "3000:3000"
