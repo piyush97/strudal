@@ -9,6 +9,17 @@ Made using Bootstrap 4
 
   Automated using GulpJs
 
+# Prerequisites
+You're going to need:
+
+* Linux or macOS — Windows may work, but is unsupported.
+* NodeJs
+* Bundler — Yarn or NPM or Brew
+* GulpJS
+
+### Getting Set Up
+Clone this repo `https://github.com/piyush97/strudal.git`
+
 ### Clean Run commands
 
 ```bash
