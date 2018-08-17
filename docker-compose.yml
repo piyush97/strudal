@@ -4,7 +4,7 @@ services:
   strudal:
     container_name: frontend
     # image: node:8.11.4
-    command: gulp
+    command: npm run start
     build: ./
     working_dir: /
     ports:
